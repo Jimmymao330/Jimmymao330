@@ -11,3 +11,7 @@ A student from [T-School](https://tschool.tp.edu.tw) (Taipei Digital Experiment 
 |Languages|Hardware|Apps|
 |---|---|---|
 |![My Skills](https://skillicons.dev/icons?i=c,cpp,py)<br />![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel) |![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi) |![My Skills](https://skillicons.dev/icons?i=apple,vscode,ai,pr,notion)|
+
+## Status
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jimmymao330&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" align="center" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jimmymao330&show_icons=true&theme=gotham" alt="github stats" width="55%" align="center"/>
